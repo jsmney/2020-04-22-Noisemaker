@@ -16,8 +16,15 @@ button {
   padding: 10px;
   margin: 20px;
   border: 0;
-  color: white;
+  color: black;
   box-shadow: 5px 5px 5px rgba(241, 110, 70, 0.3);
+}
+
+button#synth {
+  border-radius: 20px;
+  width: 120px;
+  height: 50px;
+  background-color: palegreen;
 }
 
 button:hover {
