@@ -86,7 +86,7 @@ function App() {
             })
           }
         >
-          {synthPreset ? 'Back to vanilla sound' : 'Change that sound!'}
+          {synthPreset.on ? 'Back to vanilla sound' : 'Change that sound!'}
         </button>
       </div>
     </div>
