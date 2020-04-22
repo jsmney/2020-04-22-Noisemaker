@@ -14,7 +14,56 @@ function App() {
 
   return (
     <div className="App">
-      <button onClick={handleClick}>hear things!</button>
+      <div>
+        <button onClick={handleClick}></button>
+        <button onClick={handleClick}></button>
+        <button onClick={handleClick}></button>
+        <button onClick={handleClick}></button>
+        <button onClick={handleClick}></button>
+        <button onClick={handleClick}></button>
+        <button onClick={handleClick}></button>
+        <button onClick={handleClick}></button>
+      </div>
+      <div>
+        <button onClick={handleClick}></button>
+        <button onClick={handleClick}></button>
+        <button onClick={handleClick}></button>
+        <button onClick={handleClick}></button>
+        <button onClick={handleClick}></button>
+        <button onClick={handleClick}></button>
+        <button onClick={handleClick}></button>
+        <button onClick={handleClick}></button>
+      </div>
+      <div>
+        <button onClick={handleClick}></button>
+        <button onClick={handleClick}></button>
+        <button onClick={handleClick}></button>
+        <button onClick={handleClick}></button>
+        <button onClick={handleClick}></button>
+        <button onClick={handleClick}></button>
+        <button onClick={handleClick}></button>
+        <button onClick={handleClick}></button>
+      </div>
+      <div>
+        <button onClick={handleClick}></button>
+        <button onClick={handleClick}></button>
+        <button onClick={handleClick}></button>
+        <button onClick={handleClick}></button>
+        <button onClick={handleClick}></button>
+        <button onClick={handleClick}></button>
+        <button onClick={handleClick}></button>
+        <button onClick={handleClick}></button>
+      </div>
+      <div>
+        <button onClick={handleClick}></button>
+        <button onClick={handleClick}></button>
+        <button onClick={handleClick}></button>
+        <button onClick={handleClick}></button>
+        <button onClick={handleClick}></button>
+        <button onClick={handleClick}></button>
+        <button onClick={handleClick}></button>
+        <button onClick={handleClick}></button>
+      </div>
     </div>
   )
 }
