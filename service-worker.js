@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/2020-04-22-Noisemaker/precache-manifest.21044da57d2f47a8402763a4c1a94b1c.js"
+  "/2020-04-22-Noisemaker/precache-manifest.e33f85951553a2e2dd171cb273f15632.js"
 );
 
 self.addEventListener('message', (event) => {
